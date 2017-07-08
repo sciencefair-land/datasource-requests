@@ -18,4 +18,4 @@ Open a new issue, with the title as the name of the datasource, and in the issue
 
 Open the issue and add a :+1: reaction like this:
 
-[wip]
+![vote screenshot](https://raw.githubusercontent.com/sciencefair-land/datasource-requests/master/vote_screenshot.png)
